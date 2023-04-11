@@ -1,0 +1,22 @@
+.box{
+    text-align:center;
+    padding:14rem;
+    background-color:lightgreen;
+}
+.box-1{
+    text-align:center;
+    padding:14.92rem;
+    background-color:lightBlue;
+}
+.box1{
+    padding:1rem;
+}
+.text{
+    color:blueviolet
+}
+.back{
+    color:rgb(71, 27, 230);
+    cursor:pointer;
+    font-size:1.2rem;
+
+}
